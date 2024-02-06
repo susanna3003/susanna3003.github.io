@@ -27,10 +27,10 @@ Directs phone’s LED light for plant growth
 -🌱 Sprout - Sticker pack for $25 pledge
 -🌳 Tree - PlantCase + app access for $75 pledge
 
-Meet The Team 👋
+##Meet The Team 👋
 Horticulture experts, engineers, and app developers passionate about this project! View photos and bios below.
 
-Production Plan 🛠
+##Production Plan 🛠
 With funding we can manufacture using sustainable methods and materials right here in our home state! View production roadmap.
 
 Made by the brilliant minds of susanna3003 and Claude
