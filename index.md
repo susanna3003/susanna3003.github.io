@@ -1,0 +1,7 @@
+<p>Introducing the PlantCase - a phone case like you've never seen before. We've added a miniature gardening system directly into a slim, protective phone covering so you'll never have to choose between nurturing your plants and staying connected on your mobile device!
+
+The integrated 1 inch soil planter has room for shallow-rooted microgreens or compact herb varieties that can thrive under phone-generated LED light. Simply secure your phone in the case, select your virtual "seed" in our custom Plant ParenthoodTM app, provide a bit of water through the built-in self-watering tube and watch your tiny urban garden grow!
+
+Offering a playful, convenient way to raise plants anywhere, the PlantCase makes it possible to have a productive veggie patch or mini spice garden literally at your fingertips. Our patent-pending design places soil and greenery safely outside electronic components, avoiding device damage while still capturing valuable light for photosynthesis when your phone is in use.
+
+With versatile mounting options, the slim PlantCase can be propped to optimize plant growth lighting angles. It also easily slides into pockets or bags without spillage or mess thanks to the sealable growing compartment. This phone case reimagined doubles as a literal pocket garden - miniaturizing homegrown food production and connecting us with nature all from the convenience of our ever-present mobile phones.</p>
