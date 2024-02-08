@@ -35,5 +35,5 @@ Horticulture experts, engineers, and app developers passionate about this projec
 ## Production Plan 🛠
 With funding we can manufacture using sustainable methods and materials right here in our home state! View production roadmap.
 
-Made by the brilliant minds of susanna3003 and Claude
+Made by the brilliant minds of susanna3003 and Claude.
 
