@@ -25,9 +25,9 @@ Strategic drainage holes and waterproof seals
 Directs phone’s LED light for plant growth
 
 ## Rewards 🎁
--🌿 Seedling - Good karma for $5 pledge
--🌱 Sprout - Sticker pack for $25 pledge
--🌳 Tree - PlantCase + app access for $75 pledge
+- 🌿 Seedling - Good karma for $5 pledge
+- 🌱 Sprout - Sticker pack for $25 pledge
+- 🌳 Tree - PlantCase + app access for $75 pledge
 
 ## Meet The Team 👋
 Horticulture experts, engineers, and app developers passionate about this project! View photos and bios below.
