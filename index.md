@@ -10,6 +10,8 @@ Offering a playful, convenient way to cultivate plants anywhere, the PlantCase m
 
 Bring some living green into your daily technology routine! Back the PlantCase on Kickstarter today and you’ll be first in line when these pocket planters are ready to ship. Let’s fuse mobile home gardens with portable tech in an innovative, eco-friendly package!
 
+![PlantCase by PlantParenthood](plantcase1.png)
+
 ## Why Back Us? ✔️
 Convenient urban gardening anywhere
 Promotes sustainability & eco-consciousness
