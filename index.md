@@ -37,3 +37,4 @@ With funding we can manufacture using sustainable methods and materials right he
 
 Made by the brilliant minds of susanna3003 and Claude.
 
+[See more of susanna3003](susu.md)
