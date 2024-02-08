@@ -10,19 +10,19 @@ Offering a playful, convenient way to cultivate plants anywhere, the PlantCase m
 
 Bring some living green into your daily technology routine! Back the PlantCase on Kickstarter today and you’ll be first in line when these pocket planters are ready to ship. Let’s fuse mobile home gardens with portable tech in an innovative, eco-friendly package!
 
-![PlantCase by PlantParenthood](plantcase1.png)
+![PlantCase](plantcase1.png)
 
 ## Why Back Us? ✔️
-Convenient urban gardening anywhere
-Promotes sustainability & eco-consciousness
-Educational and fun!
-iPhone & Android models available
+- Convenient urban gardening anywhere
+- Promotes sustainability & eco-consciousness
+- Educational and fun!
+- iPhone & Android models available
 
 ## Key Features 📱+🌱
-Self-contained 1" planter
-Custom self-watering irrigation
-Strategic drainage holes and waterproof seals
-Directs phone’s LED light for plant growth
+- Self-contained 1" planter
+- Custom self-watering irrigation
+- Strategic drainage holes and waterproof seals
+- Directs phone’s LED light for plant growth
 
 ## Rewards 🎁
 - 🌿 Seedling - Good karma for $5 pledge
@@ -30,7 +30,7 @@ Directs phone’s LED light for plant growth
 - 🌳 Tree - PlantCase + app access for $75 pledge
 
 ## Meet The Team 👋
-Horticulture experts, engineers, and app developers passionate about this project! View photos and bios below.
+Our development team is made up of horticulture experts, engineers, and app developers passionate about this project!
 
 ## Production Plan 🛠
 With funding we can manufacture using sustainable methods and materials right here in our home state! View production roadmap.
