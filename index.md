@@ -1,4 +1,4 @@
-# PlantCase - A Phone Case With a Pocket Garden
+## PlantCase - A Phone Case With a Pocket Garden
 ## Introduction
 Introducing the PlantCase - a phone case like you've never seen before. We've integrated a self-contained gardening system directly into a slim, protective phone covering so you'll never have to choose between nurturing your plants and staying connected on your mobile device!
 
