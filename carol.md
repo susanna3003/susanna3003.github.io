@@ -1,7 +1,7 @@
 # Carol
 ## This is my lovely cat Carol
 
-[image desc] ()
+[]()
 
 She is a brown tabby cat. I adopted her from the shelter when she was 1 year old.
 Carol had been a street cat and already had 4 kittens when she arrived at the shelter.
