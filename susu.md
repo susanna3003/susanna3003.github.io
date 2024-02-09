@@ -3,7 +3,7 @@
 Or at least try to...
 
 ## Hi, my name is Susanna!
-### I also go by susu ˗ˏˋ ★ ˎˊ˗
+### I also go by susu  ˗ˏˋ ★ ˎˊ˗
 
 I am a student and aspiring software developer. My day is mostly consumed by classes and work...
 But in my free time I enjoy hanging out with my cat, cooking, or creating programs and websites like this!
